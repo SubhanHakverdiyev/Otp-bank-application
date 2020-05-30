@@ -4,8 +4,8 @@ depending on real time data relying on the fact of queue and the distance to get
 
 ## Files description
 
-*Otpapplication: Android Studio project file
-*atm_usage_by_dates.txt: The file contains the count of atm usage for Friday,Saturday and Sunday aggregated into 30 minutes windows.
+* Otpapplication: Android Studio project file
+* atm_usage_by_dates.txt: The file contains the count of atm usage for Friday,Saturday and Sunday aggregated into 30 minutes windows.
 
 ## Additional notes 
 
